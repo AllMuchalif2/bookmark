@@ -28,7 +28,7 @@ Untuk menjalankan aplikasi ini di komputer lokal Anda, ikuti langkah-langkah ber
 
 1.  **Kloning repositori:**
     ```bash
-    git clone [https://github.com/AllMuchalif2/bookmark.git](https://github.com/AllMuchalif2/bookmark.git)
+    git clone https://github.com/AllMuchalif2/bookmark.git
     ```
 2.  **Pindahkan folder `bookmark`** yang baru saja Anda kloning ke dalam direktori `www` dari instalasi **Laragon** Anda. Contoh lokasi: `C:\laragon\www\bookmark`.
 3.  **Mulai Laragon:** Pastikan layanan Apache dan MySQL berjalan.
